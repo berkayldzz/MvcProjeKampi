@@ -1,0 +1,28 @@
+﻿@model EntityLayer.Concrete.Category
+@{
+    ViewBag.Title = "AddCategory";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Yeni Kategori Ekleme Sayfası</h1>
+<br />
+
+<!--Html BeginForm altındaki süslü parantez içindeki işlemlerin nerede ve ne zaman gerçekleşeceğini belirlememizi sağlar.
+    1.parametre üzerinde çalıştığım acitonun ismi,2.parametre üzerinde çalıştığım controllerın ismi,3.parametre ne zaman çalışacağını belirtir.-->
+
+@using (Html.BeginForm("AddCategory", "AdminCategory", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.Label("Kategori Adı")
+        @Html.TextBoxFor(x => x.CategoryName ,new {@class="form-control"})
+        @Html.ValidationMessageFor(x => x.CategoryName)
+        <br /> <br />
+        @Html.Label("Açıklamayı Yazınız")
+        @Html.TextAreaFor(x => x.CategoryDescription, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.CategoryDescription)
+        <br /> <br />
+        <button class="btn btn-info">Kaydet</button>
+
+    </div>
+}
+
