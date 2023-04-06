@@ -18,7 +18,8 @@ HTML5, CSS3, JS, Bootstrap, Enttity Framework teknolojileri kullanılarak geliş
  
  ### Admin Paneli
  
- 
+ ![Admin sayfası açılınca karşımıza ilk kategori sayfası çıkmakta.](https://user-images.githubusercontent.com/129628281/230428668-e7f984eb-935f-4b61-ab00-901f6dfb44d6.png)
+
  
 
  
