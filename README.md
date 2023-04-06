@@ -28,6 +28,8 @@ HTML5, CSS3, JS, Bootstrap, Enttity Framework teknolojileri kullanılarak geliş
 
 ### Vitrin
 
+Bu kısmın amacı ürünüzmüzü tanıtmak için yapılmış dinamik bir kısımdır. Burada sözlüğü nasıl yaptığımızı hangi teknolojileri kullandığımızı görebilirsiniz. Buradan iletişim mesajları atabilirsiniz. Sözük kısmında veya giriş yapma, kayıt olma kısmına gidebilirsiniz.
+
 ![vitrin](https://user-images.githubusercontent.com/129628281/230431208-dd629e0d-2a51-44da-8493-842671ea3d35.png)
 
 
