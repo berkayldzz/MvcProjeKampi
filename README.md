@@ -11,10 +11,10 @@ HTML5, CSS3, JS, Bootstrap, Enttity Framework teknolojileri kullanılarak geliş
 
 ## Proje 4 Kısımdan Oluşmaktadır
 
--- Admin Panel
--- Yazar Panel
--- Sözlük
--- Vitrin
+- Admin Panel
+- Yazar Panel
+- Sözlük
+- Vitrin
 
 
 
