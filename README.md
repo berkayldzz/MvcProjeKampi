@@ -15,7 +15,10 @@ HTML5, CSS3, JS, Bootstrap, Enttity Framework teknolojileri kullanılarak geliş
 - Yazar Panel
 - Sözlük
 - Vitrin
+ 
+ ### Admin Paneli
+ ![ss7](https://user-images.githubusercontent.com/129628281/230426945-5496578c-d99b-4b36-9608-5e0453954c76.png)
 
-
-
+ 
+ 
 
