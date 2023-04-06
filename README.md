@@ -4,8 +4,10 @@ HTML5, CSS3, JS, Bootstrap, Enttity Framework teknolojileri kullanılarak geliş
 
 # N-Tier Architecture
 
--BusinessProcess Layer -Data Layer - Entity Layer -Presentation Layer
-
+-BusinessProcess Layer
+Data Layer
+Entity Layer
+Presentation Layer
 
 
 
