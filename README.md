@@ -28,7 +28,7 @@
 
 ### Vitrin
 
-Bu kısmın amacı sözlüğümüzü tanıtmak için yapılmış dinamik bir kısımdır. Burada sözlüğü nasıl yaptığımızı hangi teknolojileri kullandığımızı görebilirsiniz. Buradan iletişim mesajları atabilirsiniz. Buradan sözlük kısmına ulaşabilirsiniz.
+Bu kısmın amacı sözlüğümüzü tanıtmak için yapılmış dinamik bir kısımdır. Burada sözlüğü nasıl yaptığımızı hangi teknolojileri kullandığımızı görebilirsiniz. Buradan iletişim mesajları atabilir sözlük kısmına ulaşabilirsiniz.
 
 ![vitrin](https://user-images.githubusercontent.com/129628281/230431208-dd629e0d-2a51-44da-8493-842671ea3d35.png)
 
