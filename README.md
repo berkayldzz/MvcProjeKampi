@@ -1,6 +1,6 @@
 # Asp.Net Mvc Sözlük Projesi ✔
 
-**HTML5, CSS3, JS, Bootstrap, Entity Framework** teknolojileri kullanılarak geliştirilen bir **Asp.Net Mvc** projesidir.**Entity Framework Code First** yaklaşımı ile geliştirilmiş olup **N-Tier Architecture** tabanlı bir projedir.Projede **SOLID** presnsiplerine olabildiğince uyulmuştur. Proje Murat Yücedağ tarfından hazırlanan Mvc Proje Kampı yardımıyla hazırlanmıştır.
+**HTML5, CSS3, JS, Bootstrap, Entity Framework** teknolojileri kullanılarak geliştirilen bir **Asp.Net Mvc** projesidir.**Entity Framework Code First** yaklaşımı ile geliştirilmiş olup **N-Tier Architecture** tabanlı bir projedir.Projede **SOLID** presnsiplerine olabildiğince uyulmuştur. 
 
 ## N-Tier Architecture
 
